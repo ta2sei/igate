@@ -95,8 +95,11 @@ Bu kılavuz, Raspberry Pi ve RTL-SDR dongle kullanarak APRS RX iGate kurulumunu 
 
 ## Sonuç
 
-Bu kılavuz ile Raspberry Pi ve RTL-SDR dongle kullanarak APRS RX iGate kurulumunu başarıyla tamamlayabilirsiniz. Herhangi bir sorun yaşarsanız, lütfen makalenin tamamını okuyun ve yorumları kontrol edin.
+Bu kılavuz ile Raspberry Pi ve RTL-SDR dongle kullanarak APRS RX iGate kurulumunu başarıyla tamamlayabilirsiniz. Herhangi bir sorun yaşarsanız bana yazabilirsiniz.
 
 ---
 
-Bu format, GitHub'da makale olarak yayınlanmaya uygundur. Herhangi bir ekleme veya değişiklik yapmak isterseniz, lütfen bana bildirin!
+## Kaynak
+https://qso365.co.uk/2018/04/updated-guide-to-setting-up-an-aprs-rx-only-igate-using-a-raspberry-pi-rtl-sdr-dongle-and-a-pre-built-image/
+https://picoballoon.ist/2019/02/10/raspberry-pi-ve-rtl-sdr-kullanarak-kolayca-aprs-igate-yapimi/
+
